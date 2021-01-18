@@ -1,2 +1,2 @@
-# microservices-node
-Using microservices with node js
+# Microservices in Node Js
+Posts example using microservices
